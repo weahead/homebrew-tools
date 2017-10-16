@@ -1,7 +1,7 @@
 class Wa < Formula
   desc "We aheads CLI"
   homepage "https://github.com/weahead/cli"
-  url "https://github.com/weahead/cli.git", :tag => "v1.0.6", :revision => "36a841271e87afbb2bc673006fa8557bd6ae1cd0"
+  url "https://github.com/weahead/cli.git", :tag => "v1.0.7", :revision => "4096631354e01f4257afefd37e577d527040d095"
   head "https://github.com/weahead/cli.git", :branch => :master
 
   def install
